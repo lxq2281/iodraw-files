@@ -141,11 +141,6 @@
         <mxCell id="b4sNd7xT1ZJNq6pbzl_N-31" value="是" style="startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.68;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4sNd7xT1ZJNq6pbzl_N-2" target="b4sNd7xT1ZJNq6pbzl_N-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b4sNd7xT1ZJNq6pbzl_N-32" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4sNd7xT1ZJNq6pbzl_N-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850.5" y="1120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b4sNd7xT1ZJNq6pbzl_N-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4sNd7xT1ZJNq6pbzl_N-8" target="b4sNd7xT1ZJNq6pbzl_N-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -315,6 +310,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b4sNd7xT1ZJNq6pbzl_N-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4sNd7xT1ZJNq6pbzl_N-62" target="b4sNd7xT1ZJNq6pbzl_N-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4sNd7xT1ZJNq6pbzl_N-62" value="输入账号密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="1169" width="120" height="60" as="geometry" />
