@@ -61,7 +61,7 @@
           <mxGeometry x="1135" y="972" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="b4sNd7xT1ZJNq6pbzl_N-5" value="进入登录页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1178" y="1071" width="141" height="49" as="geometry" />
+          <mxGeometry x="1210" y="1071" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="b4sNd7xT1ZJNq6pbzl_N-6" value="输入账号密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="765" y="1170" width="135" height="34" as="geometry" />
